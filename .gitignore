@@ -1,0 +1,5 @@
+# IPython-related stuffs
+.ipynb_checkpoints/
+
+# Datasets
+**/cifar-10-batches-py/
